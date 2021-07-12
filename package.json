@@ -39,7 +39,7 @@
     "@types/mocha": "^5.2.6",
     "@types/sinon": "^7.5.1",
     "@types/sinon-chai": "^3.2.3",
-    "@typescript-eslint/eslint-plugin": "^2.8.0",
+    "@typescript-eslint/eslint-plugin": "^2.34.0",
     "@typescript-eslint/parser": "^2.8.0",
     "chai": "^4.2.0",
     "codecov": "^3.6.5",
